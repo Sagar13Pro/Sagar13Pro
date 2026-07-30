@@ -95,8 +95,6 @@ I'm actively seeking opportunities to:
 
 - **GitHub**: [github.com/Sagar13Pro](https://github.com/Sagar13Pro)
 - **Email**: patel.sagar0713@gmail.com
-- **Student ID**: 1363364
-- **Location**: University of Maryland Eastern Shore
 
 Feel free to reach out if you have any questions, collaboration opportunities, or would like to discuss software engineering and computer science topics!
 
